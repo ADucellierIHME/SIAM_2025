@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.11.6)  28 JUL 2025 12:05
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.11.6)  30 JUL 2025 20:10
  restricted system commands enabled.
  file:line:error style messages enabled.
 **SIAM_2025_ADucellier.tex
@@ -1743,20 +1743,62 @@ Package luatex.def Info: _static/ihme_footer.png  used on input line 354.
  [15
 
 ]
+Package epstopdf Info: Source file: <obesity_2_35_6_534.eps>
+(epstopdf)                    date: 2025-07-30 17:44:59
+(epstopdf)                    size: 386539 bytes
+(epstopdf)             Output file: <obesity_2_35_6_534-eps-converted-to.pdf>
+(epstopdf)                    date: 2025-07-30 18:00:51
+(epstopdf)                    size: 334440 bytes
+(epstopdf)             Command: <repstopdf --outfile=obesity_2_35_6_534-eps-con
+verted-to.pdf obesity_2_35_6_534.eps>
+(epstopdf)             \includegraphics on input line 364.
+Package epstopdf Info: Output file is already uptodate.
+<obesity_2_35_6_534-eps-converted-to.pdf, id=186, 791.95876pt x 329.23pt>
+File: obesity_2_35_6_534-eps-converted-to.pdf Graphic file (type pdf)
+<use obesity_2_35_6_534-eps-converted-to.pdf>
+Package luatex.def Info: obesity_2_35_6_534-eps-converted-to.pdf  used on input
+ line 364.
+(luatex.def)             Requested size: 341.43306pt x 141.93788pt.
 File: _static/ihme_footer.png Graphic file (type png)
 <use _static/ihme_footer.png>
-Package luatex.def Info: _static/ihme_footer.png  used on input line 358.
+Package luatex.def Info: _static/ihme_footer.png  used on input line 364.
 (luatex.def)             Requested size: 25.26468pt x 9.66006pt.
  [16
 
-]
-LaTeX Font Info:    Font shape `TU/Archivo(0)/m/n' will be
-(Font)              scaled to size 22.39185pt on input line 367.
+<./obesity_2_35_6_534-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <gradient_2_35_7_532_2011.eps>
+(epstopdf)                    date: 2025-07-30 20:06:10
+(epstopdf)                    size: 964275 bytes
+(epstopdf)             Output file: <gradient_2_35_7_532_2011-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2025-07-30 20:09:13
+(epstopdf)                    size: 19797 bytes
+(epstopdf)             Command: <repstopdf --outfile=gradient_2_35_7_532_2011-e
+ps-converted-to.pdf gradient_2_35_7_532_2011.eps>
+(epstopdf)             \includegraphics on input line 374.
+Package epstopdf Info: Output file is already uptodate.
+<gradient_2_35_7_532_2011-eps-converted-to.pdf, id=203, 462.72874pt x 347.2975p
+t>
+File: gradient_2_35_7_532_2011-eps-converted-to.pdf Graphic file (type pdf)
+<use gradient_2_35_7_532_2011-eps-converted-to.pdf>
+Package luatex.def Info: gradient_2_35_7_532_2011-eps-converted-to.pdf  used on
+ input line 374.
+(luatex.def)             Requested size: 227.62204pt x 170.83968pt.
 File: _static/ihme_footer.png Graphic file (type png)
 <use _static/ihme_footer.png>
-Package luatex.def Info: _static/ihme_footer.png  used on input line 367.
+Package luatex.def Info: _static/ihme_footer.png  used on input line 374.
 (luatex.def)             Requested size: 25.26468pt x 9.66006pt.
- [17
+
+[17
+
+<./gradient_2_35_7_532_2011-eps-converted-to.pdf>]
+LaTeX Font Info:    Font shape `TU/Archivo(0)/m/n' will be
+(Font)              scaled to size 22.39185pt on input line 383.
+File: _static/ihme_footer.png Graphic file (type png)
+<use _static/ihme_footer.png>
+Package luatex.def Info: _static/ihme_footer.png  used on input line 383.
+(luatex.def)             Requested size: 25.26468pt x 9.66006pt.
+ [18
 
 ]
 \tf@nav=\write6
@@ -1768,7 +1810,8 @@ Package luatex.def Info: _static/ihme_footer.png  used on input line 367.
 \tf@snm=\write8
 
 \openout8 = SIAM_2025_ADucellier.snm
- (./SIAM_2025_ADucellier.aux)
+
+(./SIAM_2025_ADucellier.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -1777,15 +1820,15 @@ Package rerunfilecheck Info: File `SIAM_2025_ADucellier.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35129 strings out of 478285
+ 35159 strings out of 478285
  100000,1977958 words of node,token memory allocated
  2081 words of node memory still in use:
    18 hlist, 6 vlist, 2 rule, 4 disc, 3 local_par, 36 glue, 10 kern, 12 penalty,
  96 glyph, 74 attribute, 65 glue_spec, 74 attribute_list, 4 write, 2 pdf_start_l
 ink, 2 pdf_end_link, 2 pdf_action, 10 pdf_colorstack nodes
    avail lists: 2:529,3:161,4:168,5:230,6:30,7:2329,8:60,9:859,10:20,11:119
- 53765 multiletter control sequences out of 65536+600000
- 114 fonts using 31230771 bytes
+ 53779 multiletter control sequences out of 65536+600000
+ 114 fonts using 31230847 bytes
  128i,19n,127p,752b,602s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmroman9-regular.ot
 f></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/lm-math/latinmodern-
@@ -1794,10 +1837,10 @@ regular.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/lm-math/la
 tinmodern-math.otf></usr/local/texlive/2023/texmf-dist/fonts/opentype/public/lm-
 math/latinmodern-math.otf></Users/ducela/Library/Fonts/Archivo-Light.ttf></Users
 /ducela/Library/Fonts/Archivo-Medium.ttf>
-Output written on SIAM_2025_ADucellier.pdf (17 pages, 219310 bytes).
+Output written on SIAM_2025_ADucellier.pdf (18 pages, 569815 bytes).
 
-PDF statistics: 248 PDF objects out of 1000 (max. 8388607)
- 160 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 131072)
+PDF statistics: 305 PDF objects out of 1000 (max. 8388607)
+ 176 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 131072)
  46 words of extra memory for PDF output out of 10000 (max. 100000000)
 
